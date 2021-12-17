@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+i'm a **developer** live in Brazil, working with the technolgies below:
+
+- Javascript
+- NodeJs
+- ReacJs
+- NextJs
+- Css/HTML5
+- SQL Server
+
 <!--
 **rafcez/rafcez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
