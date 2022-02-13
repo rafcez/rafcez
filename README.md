@@ -3,7 +3,7 @@
 i'm a **developer** live in Brazil, working with the technolgies below:
 
 <code>
-  <div style="color:blue">
+  <div align="center" style="color:blue">
     <a href="https://www.facebook.com/rafael.cezario1/ target="_blank">
       <img width="30px" heigth="30px" src="https://github.com/rafcez/assets/blob/master/socialMedia/facebook.png"></img>      
     </a>
