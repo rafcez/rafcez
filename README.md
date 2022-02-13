@@ -10,7 +10,7 @@ i'm a **developer** live in Brazil, working with the technolgies below:
 - SQL Server
 
 <code><a>Social Media at</a>
-<img src="https://github.com/[rafcez]/[assets]/blob/[master]/socialMedia/instagram.png"
+<img src="https://github.com/rafcez/assets/[master]/socialMedia/instagram.png"
 </code>
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafcez&theme=tokyonight)
 
