@@ -3,7 +3,7 @@
 i'm a **developer** live in Brazil, working with the technolgies below:
 
 <code>
-  <div style="display: flex; flex-direction: row; width: 100%; heigth: 50px; background: #581845">
+  <div style="color:blue">
     <a>Teste</a>
   </div>
 
