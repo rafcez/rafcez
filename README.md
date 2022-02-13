@@ -2,7 +2,11 @@
 
 i'm a **developer** live in Brazil, working with the technolgies below:
 
-<img src="https://img.shields.io/static/v1?label=javascript&message=JS&color=F7DF1E&style=for-the-badge=JavaScript"/>
+<p align="center">
+  <img heigth="50px" src="https://img.shields.io/static/v1?label=javascript&message=JS&color=F7DF1E&style=for-the-badge=JavaScript"/>
+</p>
+
+
 
 
 - Javascript
