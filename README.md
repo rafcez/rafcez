@@ -2,7 +2,7 @@
 
 i'm a **developer** live in Brazil, working with the technolgies below:
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=javascript&message=JS&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 
 - Javascript
@@ -14,18 +14,3 @@ i'm a **developer** live in Brazil, working with the technolgies below:
 
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafcez&theme=tokyonight)
-
-<!--
-**rafcez/rafcez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
