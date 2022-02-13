@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm a **developer** live in Brazil, working with the technolgies below:
+i'm a **developer** live in Brazil, working with the technologies below:
 
 ### Skills
 <p>
