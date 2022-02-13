@@ -9,9 +9,7 @@ i'm a **developer** live in Brazil, working with the technolgies below:
 - Css/HTML5
 - SQL Server
 
-<code><a>Social Media at</a>
-<img src="https://github.com/rafcez/assets/[master]/socialMedia/instagram.png"
-</code>
+![A test image](https://github.com/rafcez/assets/blob/master/socialMedia/facebook.png)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafcez&theme=tokyonight)
 
 <!--
