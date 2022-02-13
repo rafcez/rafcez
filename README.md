@@ -4,11 +4,16 @@ i'm a **developer** live in Brazil, working with the technolgies below:
 
 <code>
   <div style="color:blue">
-    <a href="https://www.facebook.com">Teste</a>
+    <a href="https://www.facebook.com" target="_blank">
+      <img width="30px" heigth="30px" src="https://github.com/rafcez/assets/blob/master/socialMedia/facebook.png"></img>      
+    </a>
+  <a href="https://www.facebook.com" target="_blank">
+      <img width="30px" heigth="30px" src="https://github.com/rafcez/assets/blob/master/socialMedia/facebook.png"></img>      
+    </a>
   </div>
 
 </code>
-<img width="30px" heigth="30px" src="https://github.com/rafcez/assets/blob/master/socialMedia/facebook.png"></img>
+
 
 - Javascript
 - NodeJs
