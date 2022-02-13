@@ -4,7 +4,7 @@ i'm a **developer** live in Brazil, working with the technolgies below:
 
 <code>
   <div style="color:blue">
-    <a href="www.facebook.com">Teste</a>
+    <a href="https://www.facebook.com">Teste</a>
   </div>
 
 </code>
