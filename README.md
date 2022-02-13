@@ -3,7 +3,7 @@
 i'm a **developer** live in Brazil, working with the technolgies below:
 
 <p align="center">
-  <img width="200px" src="https://img.shields.io/static/v1?label=JS&message=Javascript&color=F7DF1E&style=for-the-badge=JavaScript"/>
+  <img width="120px" src="https://img.shields.io/static/v1?label=JS&message=Javascript&color=F7DF1E&style=for-the-badge=JavaScript"/>
 </p>
 
 
